@@ -1,0 +1,13 @@
+{
+    "files":  {
+                  "select":  "sfx/select.mp3",
+                  "grab":  "sfx/grab.mp3",
+                  "wrong":  "sfx/wrong.mp3",
+                  "incomplete":  "sfx/incomplete.mp3",
+                  "start":  "sfx/start.mp3",
+                  "click":  "sfx/click.mp3",
+                  "success":  "sfx/success.mp3",
+                  "reset":  "sfx/reset.mp3",
+                  "return":  "sfx/return.mp3"
+              }
+}
